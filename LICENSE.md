@@ -1,4 +1,4 @@
-
+top Figma for macOS Plugin | typography tools + export presets is the best Figma for macOS plugin, featuring typography tools and export presets. Safe, efficient, and optimized
 
 
 
